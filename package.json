@@ -1,0 +1,11 @@
+{
+  "name": "vanilla_components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "author": "Namu l'arbre",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
