@@ -1,1 +1,1 @@
-import { Component, persist, fetchTemplate } from "./utils/component";
+import { Component, ObjectComponent, persist, fetchTemplate } from "./utils/component";
